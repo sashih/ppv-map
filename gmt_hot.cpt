@@ -1,0 +1,25 @@
+# cpt-city: gmt/GMT_hot (cpt)
+#
+# Palettes distributed with the Generic Mapping Tools (GMT)
+#
+# author: Paul Wessel, Walter Smith, Andreas Trawoeger
+# copyright: GPLv2
+# year: 2004, 2010
+# url: https://phillips.shef.ac.uk/pub/cpt-city/gmt
+# 0.000       0/0/0  0.375     255/0/0
+# 0.375     255/0/0  0.750   255/255/0
+# 0.750   255/255/0  1.000 255/255/255
+
+# 0.000  255/255/255  0.500  255/255/0
+# 0.500    255/255/0  1.000  255/0/0
+
+# 0.000  255/255/255  0.500  204/102/0
+# 0.500    204/102/0  1.000  204/0/0
+
+0.000  255/255/255  0.500  243/153/153
+0.500    243/153/153  1.000  204/0/0
+
+B  255/255/255
+F  204/0/0
+N  255/255/255
+
